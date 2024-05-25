@@ -47,12 +47,13 @@
         "Fooocus Cinematic",
         "SAI Cinematic"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "704*1408",
     "checkpoint_downloads": {
         "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
+        "realisticVisionV60B1_v51VAE.safetensors": "https://civitai.com/api/download/models/130072"
     },
     "embeddings_downloads": {
-        "realisticVisionV60B1_v51VAE.safetensors": "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16"
+        
         "BadDream.pt": "https://civitai.com/api/download/models/77169",
         "epiCPhoto.pt": "https://civitai.com/api/download/models/220262"
     },
