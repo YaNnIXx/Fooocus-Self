@@ -1,6 +1,6 @@
 {
     "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensors",
-    "default_refiner": "Realistic_Vision_V6.0_NV_B1.safetensors",
+    "default_refiner": "Realistic_Vision_V6.0_NV_B1_fp16.safetensors",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
@@ -50,7 +50,7 @@
     "default_aspect_ratio": "704*1408",
     "checkpoint_downloads": {
         "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors",
-        "Realistic_Vision_V6.0_NV_B1.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1.safetensors"
+        "Realistic_Vision_V6.0_NV_B1_fp16.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1_fp16.safetensors?download=true"
     },
     "embeddings_downloads": {
         "BadDream.pt": "https://civitai.com/api/download/models/77169",
