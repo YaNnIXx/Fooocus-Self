@@ -6,12 +6,12 @@
         [
             true,
             "JuggerCineXL2.safetensors",
-            0.1
+            1.0
         ],
         [
             true,
-            "None",
-            1.0
+            "picxer_real.safetensors",
+            0.9
         ],
         [
             true,
@@ -47,10 +47,11 @@
     },
     "embeddings_downloads": {
         "BadDream.pt": "https://civitai.com/api/download/models/77169",
-        "epiCPhoto.pt": "https://civitai.com/api/download/models/220262?type=Model&format=PickleTensor"
+        "epiCPhoto.pt": "https://civitai.com/api/download/models/220262"
     },
     "lora_downloads": {
-        "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991"
+        "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
+        "picxer_real.safetensors": "https://civitai.com/api/download/models/308719"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
