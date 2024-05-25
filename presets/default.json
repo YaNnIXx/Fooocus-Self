@@ -49,11 +49,10 @@
     ],
     "default_aspect_ratio": "704*1408",
     "checkpoint_downloads": {
-        "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
+        "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors",
         "realisticVisionV60B1_v51VAE.safetensors": "https://civitai.com/api/download/models/130072"
     },
     "embeddings_downloads": {
-        
         "BadDream.pt": "https://civitai.com/api/download/models/77169",
         "epiCPhoto.pt": "https://civitai.com/api/download/models/220262"
     },
@@ -61,5 +60,7 @@
         "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
         "picxer_real.safetensors": "https://civitai.com/api/download/models/308719"
     },
-    "previous_default_models": []
+    "previous_default_models": [
+        "Juggernaut-X-RunDiffusion-NSFW.safetensors"
+    ]
 }
