@@ -60,7 +60,7 @@
     "lora_downloads": {
         "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
         "picxer_bside.safetensors": "https://civitai.com/api/download/models/370405",
-        "epiCRealLife.safetensors", "https://civitai.com/api/download/models/156286"
+        "epiCRealLife.safetensors": "https://civitai.com/api/download/models/156286"
     },
     "previous_default_models": [
         "Juggernaut-X-RunDiffusion-NSFW.safetensors"
