@@ -1,7 +1,7 @@
 {
     "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensors",
     "default_refiner": "Realistic_Vision_V6.0_NV_B1_fp16.safetensors",
-    "default_refiner_switch": 0.8,
+    "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
