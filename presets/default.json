@@ -49,8 +49,8 @@
     },
     "lora_downloads": {
         "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
-        "Breast Slider - SDXL_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/535064",
-        "Ass Adjust_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/530596"
+        "Breast Slider - SDXL_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/535064?token=64385c1853663f23c1fb5bad6d5741f6",
+        "Ass Adjust_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/530596?token=64385c1853663f23c1fb5bad6d5741f6"
     },
     "previous_default_models": [
         "Juggernaut-X-RunDiffusion-NSFW.safetensors"
