@@ -1,6 +1,6 @@
 {
     "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensors",
-    "default_refiner": "Realistic_Vision_V6.0_NV_B1_fp16.safetensors",
+    "default_refiner": "sd_xl_refiner_1.0_v0.9vae.safetensors",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
@@ -10,13 +10,13 @@
         ],
         [
             true,
-            "picxer_bside.safetensors",
-            2.0
+            "Breast Slider - SDXL_alpha1.0_rank4_noxattn_last.safetensors",
+            1.0
         ],
         [
             true,
-            "epiCRealLife.safetensors",
-            1.0
+            "Ass Adjust_alpha1.0_rank4_noxattn_last",
+            0.5
         ],
         [
             true,
@@ -38,29 +38,19 @@
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp",
-        "Fooocus Negative",
-        "Fooocus Masterpiece",
-        "Fooocus Photograph",
-        "Fooocus Cinematic"
     ],
     "default_aspect_ratio": "704*1408",
     "checkpoint_downloads": {
         "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors",
-        "Realistic_Vision_V6.0_NV_B1_fp16.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/resolve/main/Realistic_Vision_V6.0_NV_B1_fp16.safetensors?download=true"
+        "sd_xl_refiner_1.0_v0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors"
     },
     "embeddings_downloads": {
-        "BadDream.pt": "https://civitai.com/api/download/models/77169",
-        "epiCPhoto.pt": "https://civitai.com/api/download/models/220262",
-        "epiCPhotoGasm-colorfulPhoto-neg.pt": "https://civitai.com/api/download/models/145996",
-        "negative_hand-neg.pt": "https://civitai.com/api/download/models/60938",
-        "epiCPhotoGasm-colorfulPhoto-neg.pt": "https://civitai.com/api/download/models/145996"
+        "JuggernautNegative-neg.pt": "https://civitai.com/api/download/models/86553",
     },
     "lora_downloads": {
         "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
-        "picxer_bside.safetensors": "https://civitai.com/api/download/models/370405",
-        "epiCRealLife.safetensors": "https://civitai.com/api/download/models/156286"
+        "Breast Slider - SDXL_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/535064",
+        "Ass Adjust_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/530596"
     },
     "previous_default_models": [
         "Juggernaut-X-RunDiffusion-NSFW.safetensors"
