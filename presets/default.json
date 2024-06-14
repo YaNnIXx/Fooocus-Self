@@ -45,7 +45,7 @@
         "sd_xl_refiner_1.0_v0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors"
     },
     "embeddings_downloads": {
-        "JuggernautNegative-neg.pt": "https://civitai.com/api/download/models/86553",
+        "JuggernautNegative-neg.pt": "https://civitai.com/api/download/models/86553"
     },
     "lora_downloads": {
         "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
