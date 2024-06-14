@@ -1,22 +1,22 @@
 {
     "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensors",
     "default_refiner": "sd_xl_refiner_1.0_v0.9vae.safetensors",
-    "default_refiner_switch": 0.5,
+    "default_refiner_switch": 0.8,
     "default_loras": [
         [
             true,
-            "JuggerCineXL2.safetensors",
+            "None",
             1.0
         ],
         [
             true,
-            "Breast Slider - SDXL_alpha1.0_rank4_noxattn_last.safetensors",
+            "None",
             1.0
         ],
         [
             true,
-            "Ass Adjust_alpha1.0_rank4_noxattn_last.safetensors",
-            0.5
+            "None",
+            1.0
         ],
         [
             true,
@@ -50,9 +50,6 @@
         "JuggernautNegative-neg.pt": "https://civitai.com/api/download/models/86553"
     },
     "lora_downloads": {
-        "JuggerCineXL2.safetensors": "https://civitai.com/api/download/models/131991",
-        "Breast Slider - SDXL_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/535064?token=64385c1853663f23c1fb5bad6d5741f6",
-        "Ass Adjust_alpha1.0_rank4_noxattn_last.safetensors": "https://civitai.com/api/download/models/530596?token=64385c1853663f23c1fb5bad6d5741f6"
     },
     "previous_default_models": [
         "Juggernaut-X-RunDiffusion-NSFW.safetensors"
