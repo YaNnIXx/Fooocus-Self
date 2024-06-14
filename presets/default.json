@@ -37,7 +37,9 @@
     "default_prompt": "",
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render",
     "default_styles": [
-        "Fooocus V2"
+        "Fooocus V2",
+        "Fooocus Photograph",
+        "Fooocus Negative"
     ],
     "default_aspect_ratio": "704*1408",
     "checkpoint_downloads": {
