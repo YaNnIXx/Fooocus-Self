@@ -5,18 +5,18 @@
     "default_loras": [
         [
             true,
-            "None",
-            1.0
+            "BebeRexhaSDXL.safetensors",
+            0.0
         ],
         [
             true,
-            "None",
-            1.0
+            "emwatson_juggerX_xl_2_standard_wocap-emxwtsn-000089.safetensors",
+            0.0
         ],
         [
             true,
-            "None",
-            1.0
+            "billie_dh128_lora_v2.safetensors",
+            0.0
         ],
         [
             true,
@@ -50,6 +50,9 @@
         "JuggernautNegative-neg.pt": "https://civitai.com/api/download/models/86553"
     },
     "lora_downloads": {
+        "BebeRexhaSDXL.safetensors": "https://civitai.com/api/download/models/252587",
+        "emwatson_juggerX_xl_2_standard_wocap-emxwtsn-000089.safetensors": "https://civitai.com/api/download/models/529127",
+        "billie_dh128_lora_v2.safetensors": "https://civitai.com/api/download/models/279464"
     },
     "previous_default_models": [
         "Juggernaut-X-RunDiffusion-NSFW.safetensors"
