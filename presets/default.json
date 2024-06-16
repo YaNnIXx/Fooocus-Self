@@ -45,7 +45,7 @@
     "default_aspect_ratio": "704*1408",
     "checkpoint_downloads": {
         "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
-        "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=64385c1853663f23c1fb5bad6d5741f6"
+        "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=64385c1853663f23c1fb5bad6d5741f6",
         "sd_xl_refiner_1.0_v0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors"
     },
     "embeddings_downloads": {
