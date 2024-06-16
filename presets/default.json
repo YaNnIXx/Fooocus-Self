@@ -1,30 +1,30 @@
 {
     "default_model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
-    "default_refiner": "sd_xl_refiner_1.0_v0.9vae.safetensors",
+    "default_refiner": "",
     "default_refiner_switch": 0.8,
     "default_loras": [
         [
-            true,
+            false,
             "BebeRexhaSDXL.safetensors",
             0.0
         ],
         [
-            true,
+            false,
             "emwatson_juggerX_xl_2_standard_wocap-emxwtsn-000089.safetensors",
             0.0
         ],
         [
-            true,
+            false,
             "billie_dh128_lora_v2.safetensors",
             0.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ]
@@ -39,6 +39,7 @@
     "default_styles": [
         "Fooocus V2",
         "Fooocus Photograph",
+        "Fooocus Enhance"
         "Fooocus Negative"
     ],
     "default_aspect_ratio": "704*1408",
